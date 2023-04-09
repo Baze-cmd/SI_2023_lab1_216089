@@ -1,0 +1,28 @@
+1. ..
+2. ..
+3. ..
+4. Иницијализирам git во мојот локален репозиториум "SI_2023_lab1_216089" со командата "git init"
+5. Извршена командата "git remote add origin https://github.com/Baze-cmd/SI_2023_lab1_216089" да се поврзе локалното со оддалечениот репозиториум
+6. Направен нов фајл "README.md", извршена командата "git add "README.md"" и "git commit -m "Initial commit""
+7. Додаден нов фајл "SILab1.java", извршена командата "git add "SILab1.java" И "git commit -m "Add java class""
+8. Извршена командата "git push -u origin master"
+9. Извршена командата "git branch bug1", "git branch bug2", "git branch bug3"
+10. Извршена командата "git checkout bug1"
+11. Поправена "грешка" и извршена команда "git add SILab1.java" и "git commit -m "Fix wrong loop for reading""
+12. Извршена команда "git checkout bug2"
+13. Поправена "грешка" и извршена команда "git add SILab1.java" И "git commit -m "Fix wrong condition in filterOddNumbers""
+14. Извршена команда "git checkout bug3"
+15. Поправена "грешка" и извршена команда "git add SILab1.java" и "git commit -m "Fix method sumEvenNumbers""
+16. Извршени командите "git push origin bug1" "git push origin bug2" "git push origin bug3"
+17. Извршена команда "git checkout master"
+18. Извршена команда "git merge bug1", нема конфликт, спојување со "ort" стратегија
+19. Извршена команда "git push origin *"
+20. Извршена команда "git merge bug2", нема конфликт, спојување со "ort" стратегија
+21. Извршена команда "git push origin *"
+22. Извршена команда " git checkout bug3"
+23. Извршена команда "git rebase master"
+24. Извршена команда "git checkout master"
+25. Извршена команда "git merge bug3", нема конфликт, спојување со "ort" стратегија
+26. Извршена команда "git push origin master"
+27. Извршена команда "git add logs.txt", "git add 216089.txt", "git commit -m "Final commit""
+28. Извршена команда "git push origin master"
